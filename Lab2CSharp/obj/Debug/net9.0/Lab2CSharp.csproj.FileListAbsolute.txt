@@ -1,0 +1,15 @@
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/bin/Debug/net9.0/Lab2CSharp
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/bin/Debug/net9.0/Lab2CSharp.deps.json
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/bin/Debug/net9.0/Lab2CSharp.runtimeconfig.json
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/bin/Debug/net9.0/Lab2CSharp.dll
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/bin/Debug/net9.0/Lab2CSharp.pdb
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.AssemblyInfoInputs.cache
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.AssemblyInfo.cs
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.csproj.CoreCompileInputs.cache
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.sourcelink.json
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.dll
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/refint/Lab2CSharp.dll
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.pdb
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/Lab2CSharp.genruntimeconfig.cache
+/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/obj/Debug/net9.0/ref/Lab2CSharp.dll

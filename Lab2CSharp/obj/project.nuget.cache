@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0pStVZa8G8=",
+  "success": true,
+  "projectFilePath": "/home/user/repos/lab2csharp25-vkhalash/Lab2CSharp/Lab2CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
